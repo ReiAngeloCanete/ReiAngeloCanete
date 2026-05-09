@@ -1,7 +1,7 @@
-# Hi there, I'm Rei Angelo Cañete 👋
+# Hi there, I'm Rei Angelo C. Cañete 👋
 
 ## 💫 About Me
-I am **Rei Angelo Cañete**, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the **BS Information Technology** program.
+I am **Rei Angelo C. Cañete**, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the **BS Information Technology** program.
 
 ---
 
